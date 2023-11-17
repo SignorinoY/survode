@@ -22,15 +22,12 @@
     <loc>/reference/index.html</loc>
   </url>
   <url>
-    <loc>/reference/predict.survodereg.html</loc>
+    <loc>/reference/predict.survode.html</loc>
   </url>
   <url>
-    <loc>/reference/survode-package.html</loc>
+    <loc>/reference/survode.control.html</loc>
   </url>
   <url>
-    <loc>/reference/survodereg.control.html</loc>
-  </url>
-  <url>
-    <loc>/reference/survodereg.html</loc>
+    <loc>/reference/survode.html</loc>
   </url>
 </urlset>
