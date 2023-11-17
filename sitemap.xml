@@ -19,15 +19,18 @@
     <loc>/index.html</loc>
   </url>
   <url>
-    <loc>/reference/basehaz.html</loc>
-  </url>
-  <url>
     <loc>/reference/index.html</loc>
   </url>
   <url>
-    <loc>/reference/survode.control.html</loc>
+    <loc>/reference/predict.survodereg.html</loc>
   </url>
   <url>
-    <loc>/reference/survode.html</loc>
+    <loc>/reference/survode-package.html</loc>
+  </url>
+  <url>
+    <loc>/reference/survodereg.control.html</loc>
+  </url>
+  <url>
+    <loc>/reference/survodereg.html</loc>
   </url>
 </urlset>
